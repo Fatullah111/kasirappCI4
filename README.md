@@ -1,2 +1,2 @@
 # kasirappCI4
-Skipsi aplikasi kasir
+Aplikasi kasir ini menggunakan Codeigniter4
